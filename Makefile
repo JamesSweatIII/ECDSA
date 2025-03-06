@@ -1,2 +1,0 @@
-ecdsa:
-	echo hello world
